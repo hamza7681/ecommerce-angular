@@ -1,0 +1,24 @@
+table {
+  text-align: left;
+  color: blueviolet;
+}
+
+table td,
+table th {
+  border: 1px solid blueviolet;
+  padding: 10px;
+  min-height: 160px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.p-message{
+  color: green;
+  text-align: center;
+}
+.update{
+  margin-left: 10px;
+}

@@ -1,0 +1,64 @@
+{
+  "seller": [
+    {
+      "name": "Hamza Siddique",
+      "password": "123456",
+      "email": "hamzambf@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Tiger",
+      "password": "123456",
+      "email": "hamza2016ag7681@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Test",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "T-Shirt",
+      "price": "900",
+      "color": "Brown",
+      "category": "T-shirt",
+      "description": "This is t-shirt",
+      "image": "https://www.versace.com/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw350d846b/original/90_1003910-1A02780_1B000_10_MedusaCrystalT-Shirt-T-shirts-versace-online-store_1_2.jpg?sw=748&sh=1050&sm=fit",
+      "id": 1
+    },
+    {
+      "name": "Men Pants",
+      "price": "1200",
+      "color": "Blue",
+      "category": "Pants",
+      "description": "This is pants",
+      "image": "https://www.versace.com/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw6ee3fd22/original/90_1006372-1A04165_1D360_10_MedusaTwistedJeans-PantsandShorts-versace-online-store_1_0.jpg?sw=748&sh=1050&sm=fit",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "Hamza User",
+      "password": "123456",
+      "email": "user1@user.com",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "T-Shirt",
+      "price": "900",
+      "color": "Brown",
+      "category": "T-shirt",
+      "description": "This is t-shirt",
+      "image": "https://www.versace.com/dw/image/v2/ABAO_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw350d846b/original/90_1003910-1A02780_1B000_10_MedusaCrystalT-Shirt-T-shirts-versace-online-store_1_2.jpg?sw=748&sh=1050&sm=fit",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
